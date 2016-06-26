@@ -10,4 +10,5 @@ It uses the transition probability between different states (tProb.mtx), populat
 Then the code can be executed by: python ck_test.py #1 #2 #3 #4
 
 Author: Yuqing Zheng (syqzheng@gmail.com)
+
 Jun. 24th, 2016
