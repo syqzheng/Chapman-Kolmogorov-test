@@ -7,7 +7,7 @@ It uses the transition probability between different states (tProb.mtx), populat
 3, number of primary steps or conformational snapshots to reach Markovianity
 4, total number of states in the model
 
-Then the code can be executed by: python ck_test.py #1 #2 #3 #4
+Then the code can be executed by: python Chapman_Kolmogorov_test.py #1 #2 #3 #4
 
 Author: Yuqing Zheng (syqzheng@gmail.com)
 
